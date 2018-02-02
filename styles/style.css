@@ -3,7 +3,8 @@ GENERAL STYLES
 **/
 
 body {
-  font-family: "Source Sans Pro";
+  font-family: "Exo";
+  font-weight: 200;
   min-width: 320px;
 }
 
@@ -25,9 +26,16 @@ header {
 
 .logo { /**H1 and H5 elements**/
   margin: 0;
-  font-family: "Source Sans Pro";
-  font-weight: bold;
+  font-family: "Exo";
+  font-weight: 400;
   text-align: center;
+  color: white;
+}
+
+#imgLogo {
+  width: 20em;
+  display: block;
+  margin: 0 auto;
 }
 
 /**
@@ -89,11 +97,11 @@ body {
 }
 
 header {
-  background-color: rgb(241, 222, 52);
+  background-color: black;
 }
 
 nav {
-  background-color: rgb(247, 246, 111);
+  background-color: #11ebff;
 }
 
 main {
@@ -101,7 +109,8 @@ main {
 }
 
 footer {
-  background-color: #999999;
+  background-color: black;
+  color: white;
 }
 
 
@@ -111,5 +120,5 @@ header a, header a:visited {
 }
 
 nav a:hover, header a.currentPage {
-  color: #999999;
+  color: #666666;
 }
