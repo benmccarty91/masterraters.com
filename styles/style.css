@@ -24,7 +24,7 @@ header {
   padding-top: 10px;
 }
 
-.logo { /**H1 and H5 elements**/
+.logo { /** H* elements**/
   margin: 0;
   font-family: "Exo";
   font-weight: 400;
@@ -121,6 +121,6 @@ header a, header a:visited {
   color: #333333;
 }
 
-nav a:hover, .currentPage {
-  color: #ffffff;
+nav a:hover, nav a.currentPage {
+  color: white;
 }
