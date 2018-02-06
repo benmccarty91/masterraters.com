@@ -121,6 +121,6 @@ header a, header a:visited {
   color: #333333;
 }
 
-nav a:hover, header .currentPage {
-  color: #666666;
+nav a:hover, .currentPage {
+  color: #ffffff;
 }
