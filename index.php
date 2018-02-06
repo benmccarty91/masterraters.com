@@ -1,3 +1,3 @@
 <?php
-  include_once("index.html");
+  header("Location: https://www.masterraters.com/pages/index.php");
 ?>
