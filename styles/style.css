@@ -60,6 +60,7 @@ li {
 
 nav a {
   padding: 10px 8px;
+  font-weight: 600;
 }
 
 /**
@@ -81,6 +82,7 @@ FOOTER STYLES
 footer {
   padding: 15px;
   text-align: center;
+  border-top: 5px solid #11ebff;
 }
 
 footer p {
@@ -119,6 +121,6 @@ header a, header a:visited {
   color: #333333;
 }
 
-nav a:hover, header a.currentPage {
+nav a:hover, header .currentPage {
   color: #666666;
 }
