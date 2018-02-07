@@ -1,3 +1,3 @@
 <?php
-  header("Location: https://www.masterraters.com/pages/index.php");
+  header("Location: https://www.masterraters.com/pages/play.php");
 ?>

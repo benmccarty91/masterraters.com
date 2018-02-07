@@ -1,0 +1,60 @@
+#gameQuestion {
+  margin: 50px auto;
+  max-width: 90%;
+  text-align: center;
+}
+
+#gameQuestion img {
+  width: 90%;
+  max-width: 200px;
+}
+
+.playBoxes {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.playBoxes li {
+  display: block;
+  margin: 0 0 50px 0;
+}
+
+.playBox {
+  background-color: #bcbcbc;
+  text-align: center;
+  padding: 10px;
+  min-height: 100px;
+  max-width: 85%;
+  margin: auto;
+}
+
+.playBox h2 {
+  font-weight: 300;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+.IMDB_searchBox {
+  height: 15px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: left;
+  color: #9e9e9e;
+  width: 90%;
+}
+
+.submitAnswers {
+  background-color: #989898;
+  width: 60%;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.submitAnswers h2 {
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
