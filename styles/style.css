@@ -1,11 +1,16 @@
 /**
 GENERAL STYLES
 **/
+html {
+  background-color: #333333;
+}
 
 body {
   font-family: "Exo";
+  margin: 0 auto;
   font-weight: 200;
   min-width: 320px;
+  max-width: 1200px;
 }
 
 a {

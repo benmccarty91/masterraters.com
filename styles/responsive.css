@@ -1,0 +1,64 @@
+/**
+When the page gets larger, this is what happens
+**/
+
+@media screen and (min-width: 800px) {
+
+  header {
+    float: left;
+    width: 100%;
+    border-bottom: 5px solid #11ebff;
+    clear: both;
+    margin-bottom: 30px;
+  }
+
+  #logo {
+    float: left;
+    margin: 0 0 15px 5%;
+  }
+
+  #spacer {
+    float: right;
+    height: 150px;
+    width: 100px;
+  }
+
+  nav {
+    height: 100%;
+    float: right;
+    clear: right;
+    margin-right: 5%;
+    background-color: inherit;
+  }
+
+  header a, header a:visited {
+    color: #999999;
+  }
+
+  nav a:hover, nav a.currentPage {
+    color: white;
+  }
+
+  .playBoxes {
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .playBoxes li {
+    text-align: center;
+    display: inline-block;
+    width: 24%;
+  }
+
+  .playBox {
+    text-align: center;
+  }
+
+  .submitAnswers {
+    width: 200px;
+  }
+
+
+
+}

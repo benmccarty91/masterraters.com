@@ -8,14 +8,20 @@
 		<link href="https://fonts.googleapis.com/css?family=Exo:100,200,300,400" rel="stylesheet">
 		<link rel="stylesheet" href="../styles/style.css" />
 		<link rel="stylesheet" href="../styles/playBox.css" />
+		<link rel="stylesheet" href="../styles/responsive.css" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
 		<header>
-			<a href="index.html">
-				<img src="../img/tp_logo.png" id="imgLogo">
-				<h4 class="logo">so you think you know movies?</h4>
-			</a>
+			<div id="logo">
+				<a href="https://www.masterraters.com/pages/play.php">
+					<img src="../img/tp_logo.png" id="imgLogo">
+					<h4 class="logo">so you think you know movies?</h4>
+				</a>
+			</div>
+			<div id="spacer">
+				
+			</div>
 			<nav>
 				<ul>
 					<li><a href="play.php" <?php if ($thisPage=="play") echo " class=\"currentPage\""; ?>>Play Game</a></li>

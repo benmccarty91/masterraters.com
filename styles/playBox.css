@@ -10,9 +10,10 @@
 }
 
 .playBoxes {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   list-style: none;
+  max-width: 300px;
 }
 
 .playBoxes li {
@@ -26,7 +27,7 @@
   padding: 10px;
   min-height: 100px;
   max-width: 85%;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .playBox h2 {
@@ -41,13 +42,13 @@
   margin: 0 auto;
   padding: 10px;
   text-align: left;
-  color: #9e9e9e;
+  color: black;
   width: 90%;
+  border: none;
 }
 
 .submitAnswers {
   background-color: #989898;
-  width: 60%;
   text-align: center;
   padding: 10px;
   margin: 0 auto;
@@ -57,4 +58,19 @@
   font-weight: 300;
   margin: 0;
   padding: 0;
+}
+
+::placeholder {
+  color: #bcbcbc;
+  font-family: "Exo";
+  font-weight: 200;
+}
+
+input[type="submit"] {
+  color: black;
+  font-family: "Exo";
+  font-weight: 400;
+  font-size: 1.5em;
+  margin: 0 auto;
+  border: none;
 }
