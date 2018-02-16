@@ -67,7 +67,7 @@
   font-weight: 200;
 }
 
-input[type="submit"] {
+input[type="submit"].submitAnswers {
   color: black;
   font-family: "Exo";
   font-weight: 400;

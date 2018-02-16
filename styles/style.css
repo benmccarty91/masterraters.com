@@ -3,6 +3,7 @@ GENERAL STYLES
 **/
 html {
   background-color: #333333;
+  min-height: 100%;
 }
 
 body {
@@ -18,7 +19,7 @@ a {
 }
 
 p {
-  margin: 0;
+  margin: 0 0 15px 0;
 }
 
 /**
@@ -68,20 +69,81 @@ nav a {
   font-weight: 600;
 }
 
+#subNav {
+  text-align: center;
+  background-color: #0a99a6;
+}
+
+#subNav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 10px;
+}
+
+#subNav a {
+  padding: 10px 8px;
+  font-weight: 600;
+}
+
+#subNav a, #subNav a:visited {
+  color: black;
+}
+
+#subNav a:hover, #subNav a.currentPage {
+  color: white;
+}
+
+
+
 /**
 MAIN CONTENT STYLES
 **/
 
 main {
   padding: 15px;
+  min-height: 500px;
 }
 
 #pageTitle {
   font-size: 2.5em;
 }
 
-main > p {
-  margin: 0 10px 15px 10px;
+.login_input {
+  height: 15px;
+  background-color: white;
+  padding: 10px;
+  text-align: left;
+  color: black;
+  clear: both;
+}
+
+#submitNewUser {
+  clear: both;
+}
+
+input[type="submit"].submitLogin {
+  color: black;
+  font-family: "Exo";
+  font-weight: 400;
+  margin: 10px 10px 0 0;
+  clear: both;
+}
+
+.registerLabel {
+  display: block;
+  margin: 10px 0 5px 0;
+}
+
+.registerUserInput {
+  margin: 0 0 10px 0;
+}
+
+.submitQuestionsElement {
+  margin: 10px 0;
+}
+
+.customQuestion {
+  width:
 }
 
 /**
@@ -132,4 +194,8 @@ header a, header a:visited {
 
 nav a:hover, nav a.currentPage {
   color: white;
+}
+
+main a, main a:visited {
+  color: black;
 }

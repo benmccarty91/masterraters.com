@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>PLAY | Master Raters</title>
+		<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" href="../styles/normalize.css" />
 		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300i,400,400i,700,700i" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Exo:100,200,300,400" rel="stylesheet">
@@ -20,7 +21,7 @@
 				</a>
 			</div>
 			<div id="spacer">
-				
+
 			</div>
 			<nav>
 				<ul>
