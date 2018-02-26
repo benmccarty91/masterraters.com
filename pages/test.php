@@ -1,5 +1,7 @@
 <?php
-private $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+  require_once "../php/Dao.php";
+  $dao = new Dao();
+  $users = $dao->getUsers();
 
-  echo "<pre>" . print_r($url,1) . "</pre>";
+  echo "<pre>" . print_r($users,1) . "</pre>";
  ?>
