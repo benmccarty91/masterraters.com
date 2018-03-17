@@ -7,9 +7,10 @@
   $repeatPassword = trim($_POST["repeatPassword"]);
   $name = $_POST["name"];
 
-  $foo = $dao->checkUser("ben.mccarty@live.com");
+  $foo = $dao->checkUser($email);
   if (isset($foo[0])) {
     echo("Oops!  An account already exists with that email.");
+    echo("<pre>" . print_r($foo) . "</pre>");
     exit;
   }
 

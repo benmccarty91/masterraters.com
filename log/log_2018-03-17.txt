@@ -35,3 +35,8 @@
 2018-03-17 1:14:08 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
 2018-03-17 1:22:04 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
 2018-03-17 1:22:13 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-17 16:48:22 - DEBUG --> Established a DB connection by .
+2018-03-17 16:49:58 - DEBUG --> Established a DB connection by .
+2018-03-17 16:50:20 - DEBUG --> Established a DB connection by .
+2018-03-17 16:50:21 - DEBUG --> Established a DB connection by .
+2018-03-17 16:50:21 - DEBUG --> Established a DB connection by n/a.
