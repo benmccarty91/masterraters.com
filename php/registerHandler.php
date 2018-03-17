@@ -33,7 +33,7 @@ session_start();
     $dao->addUser($name, $hashPass, $email);
     $_SESSION['user'] = array_shift($dao->checkUser($email));
     $_SESSION['logged_in'] = true;
-    header("Location: ../pages/wecomeUser.php");
+    header("Location: ../pages/welcomeUser.php");
     exit;
   } else {
     $_SESSION['presets'] = array($presets);
