@@ -1,0 +1,22 @@
+28 questions
+
+short answer - like pop quizzes
+
+forms
+css
+css rules
+scenario questions - render this piece of info, what tag should you use and why
+similar HTML tags, their differences
+convert mockup to html and css
+sanitization and validation
+different input types to get data in though a form
+basic php syntax
+use php array
+database questions 5-7 of them
+  how to query
+  join
+  Where clauses
+2 regex questions
+
+
+CAN BRING BOOK!!!

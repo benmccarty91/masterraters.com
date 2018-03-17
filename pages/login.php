@@ -11,9 +11,9 @@ include ("../php/header.php");
   <form method="POST" action="../php/loginHandler.php">
     <input type="text" class="login_input" name="email" placeholder="email">
     <input type="password" class="login_input" name="password" placeholder="password">
-    <!-- <p>
+    <p>
       DO NOT ENTER YOUR REAL PASSWORD HERE!  It is still unsecured.
-    </p> -->
+    </p>
     <div>
       <input type="submit" class="submitLogin" value="Login" />
       <a href="registerUser.php">Register</a>
