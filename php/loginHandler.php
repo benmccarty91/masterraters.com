@@ -1,23 +1,35 @@
 <?php
+session_start();
   require_once 'Dao.php';
-  $dao = new Dao($_POST['email']);
-  echo "<pre>" . print_r($_POST,1) . "</pre>";
-  echo $_POST['email'];
 
+  $errors = array();
+  $presets = array();
+  $presets['email'] = $_POST['email'];
+  $valid = true;
+
+  $dao = new Dao($_POST['email']);
   $foo = $dao->checkUser($_POST['email']);
   if (isset($foo[0])) {
     $foo = array_shift($foo);
     if (password_verify($_POST['password'], $foo['password'])) {
-      echo "Success!";
+      $_SESSION['user'] = array_shift($dao->checkUser($_POST['email']));
+      $_SESSION['logged_in'] = true;
     } else {
-      echo "Wrong Password";
+      $valid = false;
+      $errors['invalid_login'] = true;
     }
   } else {
-    echo "That email doesn't exist";
+    $valid = false;
+    $errors['invalid_login'] = true;
   }
 
-  exit;
-
-
-
+  if ($valid) {
+    header("Location: ../pages/welcomeUser.php");
+    exit;
+  } else {
+    $_SESSION['presets'] = $presets;
+    $_SESSION['errors'] = $errors;
+    header("Location: ../pages/login.php");
+    exit;
+  }
  ?>

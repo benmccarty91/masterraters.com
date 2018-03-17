@@ -1,7 +1,12 @@
 <?php
-$thisPage = "play";
-include ("../php/header.php");
- ?>
+session_start();
+  $thisPage = "play";
+  include ("../php/header.php");
+  $logged_in = $_SESSION['logged_in'];
+  if (isset($logged_in) && $logged_in) {
+    include ("../php/subNav.php");
+  }
+?>
 <main>
   <h1 id="pageTitle">Play!</h1>
   <div id="gameQuestion">

@@ -1,4 +1,5 @@
 <?php
+session_start();
   require_once "../php/Dao.php";
   $dao = new Dao();
 

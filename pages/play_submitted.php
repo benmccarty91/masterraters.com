@@ -1,4 +1,5 @@
 <?php
+session_start();
 $thisPage = "play";
 include ("../php/header.php");
  ?>

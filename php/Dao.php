@@ -24,6 +24,7 @@ class Dao {
       echo "connection failed: " . $e->getMessage();
     }
   }
+
   public function getUsers () {
      $conn = $this->getConnection();
      $query = $conn->prepare("select * from user");

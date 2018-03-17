@@ -1,7 +1,8 @@
 <?php
-  require_once "../php/Dao.php";
-  $dao = new Dao();
-  $users = $dao->getUsers();
+session_start();
 
-  echo "<pre>" . print_r($users,1) . "</pre>";
+  require_once "../php/Dao.php";
+
+
+  echo "<pre>" . print_r($_SESSION,1) . "</pre>";
  ?>
