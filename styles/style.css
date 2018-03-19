@@ -93,6 +93,10 @@ nav a {
   color: white;
 }
 
+#spacer {
+  display: none;
+}
+
 
 
 /**
@@ -151,6 +155,10 @@ textarea#customQuestion {
   max-width: 80%;
 }
 
+#submitForm {
+  margin-top: 50px;
+}
+
 /**
 FOOTER STYLES
 **/
@@ -163,6 +171,14 @@ footer {
 
 footer p {
   margin: 0;
+}
+
+#tmdb_logo {
+  margin-top: 25px;
+}
+
+#tmdb_logo img {
+  height: 75px;
 }
 
 

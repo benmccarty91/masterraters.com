@@ -64,12 +64,18 @@ class Dao {
      $query->bindParam(':password', $password);
      $query->execute();
   }
-  public function addQuestion($bestworst, $name, $question) {
+  public function addQuestion($entered_by, $bestworst, $query_type, $tv_movie, $question, $image_path) {
+    $this->log->logDebug("addQuestion function called with params: " . $entered_by . $bestworst . $query_type . $tv_movie . $question . $image_path);
     $conn = $this->getConnection();
-    $query = $conn->prepare("INSERT INTO question_deck (best_worst_question, person, question) values (:best_worst_question, :person, :question)");
-    $query->bindParam(':best_worst_question', $bestworst);
-    $query->bindParam(':person', $person);
+    $query = $conn->prepare("INSERT INTO question_deck (approved, best_worst_question, query_type, tv_movie, query, image_path)
+      values (0, :bestworst, :query_type, :tv_movie, :question, :image);");
+    $query->bindParam(':bestworst', $bestworst);
+    $query->bindParam(':query_type', $query_type);
+    $query->bindParam(':tv_movie', $tv_movie);
     $query->bindParam(':question', $question);
+    $query->bindParam(':image', $image_path);
     $query->execute();
+    $this->log->logDebug("addQuestion Executed");
+
   }
 }

@@ -17,14 +17,19 @@ INSERT INTO user (email, password, name, access_level)
 
 CREATE TABLE question_deck (
   question_id int NOT NULL AUTO_INCREMENT,
-  approved Boolean NOT NULL DEFAULT 0,
-  entered_by_user int NOT NULL DEFAULT 1,
-  best_worst_question varchar(5) NOT NULL DEFAULT 'Best',
-  person varchar(255),
-  question varchar(255) NOT NULL,
+  approved Boolean DEFAULT 0,
+  entered_by_user int DEFAULT 0,
+  best_worst_question varchar(5) DEFAULT 'Best',
+  query_type varchar(255),
+  tv_movie varchar(255),
+  query varchar(255),
+  image_path varchar(255),
   date_entered DATETIME DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (question_id)
 );
 
-INSERT INTO question_deck (approved, person, question)
-  values (1, 'Matt Damon', 'Best Matt Damon Movie');
+INSERT INTO question_deck (approved, best_worst_question, query_type, tv_movie, query)
+  values (1, 'Best', 'actor', 'Movie', 'Matt Damon');
+
+INSERT INTO question_deck (approved, best_worst_question, query_type, tv_movie, query)
+  values (1, 'Worst', 'actor', 'Movie', 'Matt Damon');

@@ -1,0 +1,318 @@
+2018-03-18 22:35:47 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:35:47 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:35:47 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:36:19 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:36:19 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:36:19 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:36:35 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:36:35 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:36:35 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:36:50 - DEBUG --> Submitted Question: Array
+(
+)
+
+2018-03-18 22:36:50 - DEBUG --> addQuestion function called with params: 1Best
+2018-03-18 22:36:51 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:36:51 - DEBUG --> after execute
+2018-03-18 22:37:03 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:37:03 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:37:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:37:03 - DEBUG --> after execute
+2018-03-18 22:37:23 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:37:23 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:37:23 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:37:23 - DEBUG --> after execute
+2018-03-18 22:37:34 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:37:34 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:37:35 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:37:35 - DEBUG --> after execute
+2018-03-18 22:37:53 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:37:53 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:37:53 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:37:53 - DEBUG --> after execute
+2018-03-18 22:38:36 - DEBUG --> Submitted Question: Array
+(
+)
+
+2018-03-18 22:38:36 - DEBUG --> addQuestion function called with params: 1Best
+2018-03-18 22:38:36 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:38:36 - DEBUG --> one
+2018-03-18 22:38:36 - DEBUG --> two
+2018-03-18 22:38:36 - DEBUG --> three
+2018-03-18 22:38:37 - DEBUG --> four
+2018-03-18 22:38:38 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:38:38 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:38:39 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:38:39 - DEBUG --> one
+2018-03-18 22:38:39 - DEBUG --> two
+2018-03-18 22:38:39 - DEBUG --> three
+2018-03-18 22:38:39 - DEBUG --> four
+2018-03-18 22:40:08 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:40:08 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:40:08 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:40:08 - DEBUG --> before execute
+2018-03-18 22:40:08 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:41:16 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:41:16 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:41:16 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:41:16 - DEBUG --> before execute
+2018-03-18 22:41:17 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:43:45 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:43:45 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:43:45 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:43:45 - DEBUG --> before execute
+2018-03-18 22:43:45 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:44:37 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:44:37 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman
+2018-03-18 22:44:37 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:44:37 - DEBUG --> before execute
+2018-03-18 22:44:37 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:45:06 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:45:06 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman0
+2018-03-18 22:45:06 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:45:06 - DEBUG --> before execute
+2018-03-18 22:45:07 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:45:54 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:45:54 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman0
+2018-03-18 22:45:54 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:45:54 - DEBUG --> before execute
+2018-03-18 22:45:54 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:46:42 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:46:42 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman0
+2018-03-18 22:46:43 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:46:43 - DEBUG --> before execute
+2018-03-18 22:46:43 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:49:00 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:49:00 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman0
+2018-03-18 22:49:00 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:49:00 - DEBUG --> before execute
+2018-03-18 22:49:00 - DEBUG --> after execute
+2018-03-18 22:49:01 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:49:23 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:49:23 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman0
+2018-03-18 22:49:23 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:49:23 - DEBUG --> addQuestion Executed
+2018-03-18 22:49:23 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:51:07 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:51:07 - DEBUG --> addQuestion function called with params: 1BestactorMovieMartin Freeman0
+2018-03-18 22:51:08 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:51:09 - DEBUG --> addQuestion Executed
+2018-03-18 22:51:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:53:28 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => TV Show
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:53:28 - DEBUG --> addQuestion function called with params: 1BestactorTV ShowMartin Freeman0
+2018-03-18 22:53:28 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:53:29 - DEBUG --> addQuestion Executed
+2018-03-18 22:53:29 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:54:27 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => TV Show
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:54:27 - DEBUG --> addQuestion function called with params: 1BestactorTV ShowMartin Freeman0
+2018-03-18 22:54:27 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:54:27 - DEBUG --> addQuestion Executed
+2018-03-18 22:54:27 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:54:46 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => decade
+    [tv_movie] => TV Show
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:54:46 - DEBUG --> addQuestion function called with params: 1BestdecadeTV ShowMartin Freeman0
+2018-03-18 22:54:46 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:54:46 - DEBUG --> addQuestion Executed
+2018-03-18 22:54:47 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:55:32 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => decade
+    [tv_movie] => TV Show
+    [customQuestion] => Martin Freeman
+)
+
+2018-03-18 22:55:32 - DEBUG --> addQuestion function called with params: 1BestdecadeTV ShowMartin Freeman0
+2018-03-18 22:55:32 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:55:32 - DEBUG --> addQuestion Executed
+2018-03-18 22:55:32 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:55:47 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => genre
+    [tv_movie] => Movie OR TV Show
+    [customQuestion] => asdfasdf
+)
+
+2018-03-18 22:55:47 - DEBUG --> addQuestion function called with params: 1BestgenreMovie OR TV Showasdfasdf0
+2018-03-18 22:55:48 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:55:48 - DEBUG --> addQuestion Executed
+2018-03-18 22:55:48 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:56:24 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => genre
+    [tv_movie] => Both
+    [customQuestion] => asdfasdfasdfasdfasdf
+)
+
+2018-03-18 22:56:24 - DEBUG --> addQuestion function called with params: 1BestgenreBothasdfasdfasdfasdfasdf0
+2018-03-18 22:56:24 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:56:24 - DEBUG --> addQuestion Executed
+2018-03-18 22:56:25 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:58:07 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Both
+    [customQuestion] => ffffff
+)
+
+2018-03-18 22:58:07 - DEBUG --> addQuestion function called with params: 1BestactorBothffffff0
+2018-03-18 22:58:08 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 22:58:08 - DEBUG --> addQuestion Executed
+2018-03-18 22:58:08 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 23:01:04 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => Both
+    [customQuestion] => ffffff
+)
+
+2018-03-18 23:01:04 - DEBUG --> addQuestion function called with params: 1BestdirectorBothffffff0
+2018-03-18 23:01:04 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 23:01:04 - DEBUG --> addQuestion Executed
+2018-03-18 23:01:05 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 23:03:52 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => 6a54sd6f54
+)
+
+2018-03-18 23:03:52 - DEBUG --> addQuestion function called with params: 1BestactorMovie6a54sd6f540
+2018-03-18 23:03:52 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 23:03:52 - DEBUG --> addQuestion Executed
+2018-03-18 23:03:53 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 23:04:34 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => 6a54sd6f54
+)
+
+2018-03-18 23:04:34 - DEBUG --> addQuestion function called with params: 1BestactorMovie6a54sd6f54test.jpg
+2018-03-18 23:04:34 - DEBUG --> Established a DB connection by n/a.
+2018-03-18 23:04:34 - DEBUG --> addQuestion Executed
+2018-03-18 23:04:35 - DEBUG --> Established a DB connection by n/a.

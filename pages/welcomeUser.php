@@ -20,18 +20,31 @@ session_start();
     Help improve the game by submitting your own questions!
   </p>
   <p>
-    Please follow the format of Best/Worst actor/director/genre.
+    Both a BEST and WORST version of your question will be created automatically.
   </p>
   <p>
     Please allow a few days for our moderators to approve your submission before it gets added to the deck.
   </p>
-
+<div id="submitForm">
   <form id="submitQuestionsForm" class="submitQuestions" action="../php/questionsHandler.php" method="POST">
       <div class="submitQuestionsElement">
-        <input type="radio" name="best/worst" value="best" id="bestButton"/><label for="bestButton"> Best</label>
+        <label>Please Select: </label>
+        <select name="query_type">
+          <option value="null"></option>
+          <option value="actor">Actor</option>
+          <option value="director">Director</option>
+          <option value="genre">Genre</option>
+          <option value="decade">Decade</option>
+        </select>
       </div>
       <div class="submitQuestionsElement">
-        <input type="radio" name="best/worst" value="worst" id="worstButton" /><label for="worstButton"> Worst</label>
+        <label>TV or Movie: </label>
+        <select name="tv_movie">
+          <option value="null"></option>
+          <option value="TV Show">TV Show</option>
+          <option value="Movie">Movie</option>
+          <option value="Both">Both</option>
+        </select>
       </div>
       <div class="submitQuestionsElement">
         <textarea name="customQuestion" id="customQuestion" placeholder="Your question..." rows="5" cols="50" maxlength="240"></textarea>
@@ -40,6 +53,7 @@ session_start();
         <input type="submit" class="submitLogin" value="Submit Question" />
       </div>
   </form>
+</div>
 </main>
 <?php
   include ("../php/footer.php");

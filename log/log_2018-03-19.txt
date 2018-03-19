@@ -1,0 +1,2 @@
+2018-03-19 1:55:35 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-19 1:55:36 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
