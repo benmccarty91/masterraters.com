@@ -1,0 +1,412 @@
+2018-03-28 18:03:04 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:03:28 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:03:53 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:05:36 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:05:49 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:06:15 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:09:36 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:11:40 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:11:40 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:11:58 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:11:58 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:15 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:16 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:26 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:26 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:36 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:36 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:54 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:12:55 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:13:19 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:13:19 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:13:32 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:13:32 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:13:38 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:13:38 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:17:44 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:17:45 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:18:11 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:18:12 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:18:35 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:18:35 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:18:49 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:18:50 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:27:29 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:27:30 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:27:41 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:27:41 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:30:33 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:30:34 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:53:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:53:47 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:55:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:55:30 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:56:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:56:52 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:57:29 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 18:58:21 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:01:50 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:02:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:03:36 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:03:49 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:04:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:04:21 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:04:40 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:04:56 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:05:39 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:05:50 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:06:21 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:18:56 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:19:24 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:19:33 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:20:02 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:20:14 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:20:33 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:20:52 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:21:25 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:21:39 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:22:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:22:41 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:23:02 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:24:29 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-28 19:24:29 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-28 19:24:40 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => null
+    [customQuestion] => 
+)
+
+2018-03-28 19:24:40 - DEBUG --> addQuestion function called with params: 1Bestactornulltest.jpg
+2018-03-28 19:24:40 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:24:40 - DEBUG --> addQuestion Executed
+2018-03-28 19:24:40 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:25:30 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => null
+    [customQuestion] => 
+)
+
+2018-03-28 19:25:30 - DEBUG --> addQuestion function called with params: 1Bestactornull
+2018-03-28 19:25:30 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:25:30 - DEBUG --> addQuestion Executed
+2018-03-28 19:25:30 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:25:44 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:25:47 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => null
+    [customQuestion] => 
+)
+
+2018-03-28 19:25:47 - DEBUG --> addQuestion function called with params: 1Bestactornull
+2018-03-28 19:25:47 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:25:47 - DEBUG --> addQuestion Executed
+2018-03-28 19:25:48 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:27:02 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => George Clooney
+)
+
+2018-03-28 19:27:02 - DEBUG --> addQuestion function called with params: 1BestactorMovieGeorge Clooneyhttps://image.tmdb.org/t/p/h632/esyiULfB7kSrhgzBkLamjsTTKEg.jpg
+2018-03-28 19:27:02 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:27:02 - DEBUG --> addQuestion Executed
+2018-03-28 19:27:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:27:25 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Wes Anderson
+)
+
+2018-03-28 19:27:25 - DEBUG --> addQuestion function called with params: 1BestactorMovieWes Andersonhttps://image.tmdb.org/t/p/h632/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg
+2018-03-28 19:27:25 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:27:25 - DEBUG --> addQuestion Executed
+2018-03-28 19:27:26 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:28:49 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Wes Anderson
+)
+
+2018-03-28 19:28:49 - DEBUG --> addQuestion function called with params: 1BestactorMovieWes Andersonhttps://image.tmdb.org/t/p/h632/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg
+2018-03-28 19:28:49 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:28:49 - DEBUG --> addQuestion Executed
+2018-03-28 19:28:50 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:28:58 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => Movie
+    [customQuestion] => Wes Anderson
+)
+
+2018-03-28 19:28:58 - DEBUG --> addQuestion function called with params: 1BestdirectorMovieWes Andersonhttps://image.tmdb.org/t/p/h632/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg
+2018-03-28 19:28:58 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:28:58 - DEBUG --> addQuestion Executed
+2018-03-28 19:28:58 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:36:20 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => null
+    [tv_movie] => null
+    [customQuestion] => 
+)
+
+2018-03-28 19:36:20 - DEBUG --> addQuestion function called with params: 1Bestnullnull
+2018-03-28 19:36:20 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:36:20 - DEBUG --> addQuestion Executed
+2018-03-28 19:36:21 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:36:27 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => null
+    [tv_movie] => null
+    [customQuestion] => 
+)
+
+2018-03-28 19:36:27 - DEBUG --> addQuestion function called with params: 1Bestnullnull
+2018-03-28 19:36:28 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:36:28 - DEBUG --> addQuestion Executed
+2018-03-28 19:36:28 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:39:58 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => TV Show
+    [customQuestion] => 
+)
+
+2018-03-28 19:39:58 - DEBUG --> addQuestion function called with params: 1BestactorTV Showhttps://image.tmdb.org/t/p/h632
+2018-03-28 19:39:58 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:39:58 - DEBUG --> addQuestion Executed
+2018-03-28 19:39:58 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:42:08 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => TV Show
+    [customQuestion] => asdf
+)
+
+2018-03-28 19:42:08 - DEBUG --> addQuestion function called with params: 1BestactorTV Showasdfhttps://image.tmdb.org/t/p/h632
+2018-03-28 19:42:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:42:09 - DEBUG --> addQuestion Executed
+2018-03-28 19:42:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:43:03 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Both
+    [customQuestion] => asdf
+)
+
+2018-03-28 19:43:03 - DEBUG --> addQuestion function called with params: 1BestactorBothasdfhttps://image.tmdb.org/t/p/h632
+2018-03-28 19:43:05 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:43:06 - DEBUG --> addQuestion Executed
+2018-03-28 19:43:07 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 19:43:51 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-28 19:43:51 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-28 20:05:09 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => TV Show
+    [customQuestion] =>                   
+)
+
+2018-03-28 20:05:09 - DEBUG --> addQuestion function called with params: 1BestdirectorTV Show                  https://image.tmdb.org/t/p/h632
+2018-03-28 20:05:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:05:09 - DEBUG --> addQuestion Executed
+2018-03-28 20:05:09 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:08:53 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Matt Damon
+)
+
+2018-03-28 20:08:53 - DEBUG --> addQuestion function called with params: 1BestactorMovieMatt Damonhttps://image.tmdb.org/t/p/h632/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg
+2018-03-28 20:08:54 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:08:55 - DEBUG --> addQuestion Executed
+2018-03-28 20:08:55 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:11:02 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => Movie
+    [customQuestion] => Wes Anderson
+)
+
+2018-03-28 20:11:02 - DEBUG --> addQuestion function called with params: 1BestdirectorMovieWes Andersonhttps://image.tmdb.org/t/p/h632/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg
+2018-03-28 20:11:03 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:11:04 - DEBUG --> addQuestion Executed
+2018-03-28 20:18:33 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => TV Show
+    [customQuestion] => Peter Dinklage
+)
+
+2018-03-28 20:18:33 - DEBUG --> addQuestion function called with params: 1BestactorTV ShowPeter Dinklagehttps://image.tmdb.org/t/p/h632/xuB7b4GbARu4HN6gq5zMqjGbkwF.jpg
+2018-03-28 20:18:33 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:18:33 - DEBUG --> addQuestion Executed
+2018-03-28 20:21:43 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => Movie
+    [customQuestion] => Martin Scorsese
+)
+
+2018-03-28 20:21:43 - DEBUG --> addQuestion function called with params: 1BestdirectorMovieMartin Scorsesehttps://image.tmdb.org/t/p/h632/4Xwx5XL1RJj0JQmEo8Fhr6nkpOg.jpg
+2018-03-28 20:21:43 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:21:43 - DEBUG --> addQuestion Executed
+2018-03-28 20:22:42 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => Movie
+    [customQuestion] => Christopher Nolan
+)
+
+2018-03-28 20:22:42 - DEBUG --> addQuestion function called with params: 1BestdirectorMovieChristopher Nolanhttps://image.tmdb.org/t/p/h632/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg
+2018-03-28 20:22:43 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:22:43 - DEBUG --> addQuestion Executed
+2018-03-28 20:22:43 - DEBUG --> addQuestion function called with params: 1WorstdirectorMovieChristopher Nolanhttps://image.tmdb.org/t/p/h632/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg
+2018-03-28 20:22:43 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:22:43 - DEBUG --> addQuestion Executed
+2018-03-28 20:23:23 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => director
+    [tv_movie] => Movie
+    [customQuestion] => Martin Scorses
+)
+
+2018-03-28 20:23:23 - DEBUG --> addQuestion function called with params: 1BestdirectorMovieMartin Scorseshttps://image.tmdb.org/t/p/h632/4Xwx5XL1RJj0JQmEo8Fhr6nkpOg.jpg
+2018-03-28 20:23:24 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:23:24 - DEBUG --> addQuestion Executed
+2018-03-28 20:23:24 - DEBUG --> addQuestion function called with params: 1WorstdirectorMovieMartin Scorseshttps://image.tmdb.org/t/p/h632/4Xwx5XL1RJj0JQmEo8Fhr6nkpOg.jpg
+2018-03-28 20:23:24 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:23:24 - DEBUG --> addQuestion Executed
+2018-03-28 20:25:51 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => TV Show
+    [customQuestion] => ABC
+)
+
+2018-03-28 20:25:51 - DEBUG --> addQuestion function called with params: 1BestactorTV ShowABChttps://image.tmdb.org/t/p/h632
+2018-03-28 20:25:51 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:25:51 - DEBUG --> addQuestion Executed
+2018-03-28 20:25:51 - DEBUG --> addQuestion function called with params: 1WorstactorTV ShowABChttps://image.tmdb.org/t/p/h632
+2018-03-28 20:25:52 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:25:52 - DEBUG --> addQuestion Executed
+2018-03-28 20:29:34 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Woody Harrelsen
+)
+
+2018-03-28 20:29:34 - DEBUG --> addQuestion function called with params: 1BestactorMovieWoody Harrelsenhttps://image.tmdb.org/t/p/h632
+2018-03-28 20:29:34 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:29:34 - DEBUG --> addQuestion Executed
+2018-03-28 20:29:34 - DEBUG --> addQuestion function called with params: 1WorstactorMovieWoody Harrelsenhttps://image.tmdb.org/t/p/h632
+2018-03-28 20:29:34 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:29:34 - DEBUG --> addQuestion Executed
+2018-03-28 20:29:46 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Woody Harrelson
+)
+
+2018-03-28 20:29:46 - DEBUG --> addQuestion function called with params: 1BestactorMovieWoody Harrelsonhttps://image.tmdb.org/t/p/h632/1ecdooAHICUhCZKKEKlFtccEmTU.jpg
+2018-03-28 20:29:46 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:29:46 - DEBUG --> addQuestion Executed
+2018-03-28 20:29:46 - DEBUG --> addQuestion function called with params: 1WorstactorMovieWoody Harrelsonhttps://image.tmdb.org/t/p/h632/1ecdooAHICUhCZKKEKlFtccEmTU.jpg
+2018-03-28 20:29:46 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:29:46 - DEBUG --> addQuestion Executed
+2018-03-28 20:33:48 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Jeff Goldblum
+)
+
+2018-03-28 20:33:48 - DEBUG --> addQuestion function called with params: 1BestactorMovieJeff Goldblumhttps://image.tmdb.org/t/p/h632/w9frUiRJUyRnWvFqihtS31q6LWc.jpg
+2018-03-28 20:33:48 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:33:48 - DEBUG --> addQuestion Executed
+2018-03-28 20:33:48 - DEBUG --> addQuestion function called with params: 1WorstactorMovieJeff Goldblumhttps://image.tmdb.org/t/p/h632/w9frUiRJUyRnWvFqihtS31q6LWc.jpg
+2018-03-28 20:33:48 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:33:49 - DEBUG --> addQuestion Executed
+2018-03-28 20:34:05 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => Jeff Goldbloom
+)
+
+2018-03-28 20:34:05 - DEBUG --> addQuestion function called with params: 1BestactorMovieJeff Goldbloomhttps://image.tmdb.org/t/p/h632
+2018-03-28 20:34:05 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:34:05 - DEBUG --> addQuestion Executed
+2018-03-28 20:34:05 - DEBUG --> addQuestion function called with params: 1WorstactorMovieJeff Goldbloomhttps://image.tmdb.org/t/p/h632
+2018-03-28 20:34:05 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:34:05 - DEBUG --> addQuestion Executed
+2018-03-28 20:44:30 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-28 20:44:31 - DEBUG --> Established a DB connection by ben.mccarty@live.com.
+2018-03-28 20:44:44 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Movie
+    [customQuestion] => George Clooney
+)
+
+2018-03-28 20:44:44 - DEBUG --> addQuestion function called with params: 1BestactorMovieGeorge Clooneyhttps://image.tmdb.org/t/p/h632/esyiULfB7kSrhgzBkLamjsTTKEg.jpg
+2018-03-28 20:44:44 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:44:44 - DEBUG --> addQuestion Executed
+2018-03-28 20:44:44 - DEBUG --> addQuestion function called with params: 1WorstactorMovieGeorge Clooneyhttps://image.tmdb.org/t/p/h632/esyiULfB7kSrhgzBkLamjsTTKEg.jpg
+2018-03-28 20:44:45 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:44:45 - DEBUG --> addQuestion Executed
+2018-03-28 20:45:19 - DEBUG --> Established a DB connection by hello@suckas.com.
+2018-03-28 20:45:19 - DEBUG --> Established a DB connection by hello@suckas.com.
+2018-03-28 20:45:20 - DEBUG --> Established a DB connection by hello@suckas.com.
+2018-03-28 20:46:01 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Both
+    [customQuestion] => david attenborough
+)
+
+2018-03-28 20:46:01 - DEBUG --> addQuestion function called with params: 11BestactorBothdavid attenboroughhttps://image.tmdb.org/t/p/h632/6BWFHWHSXwMNPRoDLn80er3Xfzx.jpg
+2018-03-28 20:46:01 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:46:02 - DEBUG --> addQuestion Executed
+2018-03-28 20:46:02 - DEBUG --> addQuestion function called with params: 11WorstactorBothdavid attenboroughhttps://image.tmdb.org/t/p/h632/6BWFHWHSXwMNPRoDLn80er3Xfzx.jpg
+2018-03-28 20:46:02 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:46:02 - DEBUG --> addQuestion Executed
+2018-03-28 20:47:14 - DEBUG --> Submitted Question: Array
+(
+    [query_type] => actor
+    [tv_movie] => Both
+    [customQuestion] => Chris Hemsworth
+)
+
+2018-03-28 20:47:14 - DEBUG --> addQuestion function called with params: 11BestactorBothChris Hemsworthhttps://image.tmdb.org/t/p/h632/lrhth7yK9p3vy6p7AabDUM1THKl.jpg
+2018-03-28 20:47:14 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:47:14 - DEBUG --> addQuestion Executed
+2018-03-28 20:47:14 - DEBUG --> addQuestion function called with params: 11WorstactorBothChris Hemsworthhttps://image.tmdb.org/t/p/h632/lrhth7yK9p3vy6p7AabDUM1THKl.jpg
+2018-03-28 20:47:15 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:47:15 - DEBUG --> addQuestion Executed
+2018-03-28 20:54:42 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:55:08 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 20:59:53 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:00:29 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:03:40 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:03:42 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:03:43 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:05:35 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:06:48 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:07:38 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:10:19 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:10:25 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:10:31 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:10:39 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:10:57 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:11:11 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:15:16 - DEBUG --> Established a DB connection by n/a.
+2018-03-28 21:16:23 - DEBUG --> Established a DB connection by n/a.

@@ -76,6 +76,20 @@ class Dao {
     $query->bindParam(':image', $image_path);
     $query->execute();
     $this->log->logDebug("addQuestion Executed");
+  }
+  public function getNumQuestions() {
+    $conn = $this->getConnection();
+    $query = $conn->prepare("select count(*) from question_deck");
+    $query->setFetchMode(PDO::FETCH_ASSOC);
+    $query->execute();
+    return $query->fetchAll();
+  }
 
+  public function getRandomQuestions() {
+    $conn = $this->getConnection();
+    $query = $conn->prepare("select * from question_deck where approved = '1' or approved = '0' order by rand() limit 100;");
+    $query->setFetchMode(PDO::FETCH_ASSOC);
+    $query->execute();
+    return $query->fetchAll();
   }
 }

@@ -1,6 +1,9 @@
 <?php
 session_start();
+require_once 'Dao.php';
+$dao = new Dao();
+require_once 'rng.php';
 
-  echo password_hash("testpassword", PASSWORD_DEFAULT);
-  echo "\n\n";
+print_r($_SESSION['qDeck']);
+
 ?>

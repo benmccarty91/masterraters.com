@@ -4,9 +4,11 @@ session_start();
   if (isset($logged_in)) {
     if (!$logged_in) {
       header("Location: login.php");
+      exit;
     }
   } else {
     header("Location: login.php");
+    exit;
   }
   session_destroy();
   $thisPage = "logout";

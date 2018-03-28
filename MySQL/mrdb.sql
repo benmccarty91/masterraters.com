@@ -27,9 +27,3 @@ CREATE TABLE question_deck (
   date_entered DATETIME DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (question_id)
 );
-
-INSERT INTO question_deck (approved, best_worst_question, query_type, tv_movie, query)
-  values (1, 'Best', 'actor', 'Movie', 'Matt Damon');
-
-INSERT INTO question_deck (approved, best_worst_question, query_type, tv_movie, query)
-  values (1, 'Worst', 'actor', 'Movie', 'Matt Damon');

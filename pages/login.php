@@ -3,6 +3,7 @@ session_start();
   $logged_in = $_SESSION['logged_in'];
   if (isset($logged_in) && $logged_in) {
     header("Location: welcomeUser.php");
+    exit;
   }
 
   $thisPage = "login";

@@ -25,6 +25,7 @@ When the page gets larger, this is what happens
     display: block;
     float: right;
     height: 150px;
+    margin-right:5%;
   }
   #spacer img {
     height: 100px;
