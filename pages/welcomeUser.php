@@ -30,7 +30,7 @@ session_start();
  ?>
 
 <main>
-  <h1 id="pageTitle">Welcome, <?php echo($_SESSION[user][name]) ?></h1>
+  <h1 id="pageTitle">Welcome, <?php echo($_SESSION['user']['name']) ?></h1>
   <p>
     Help improve the game by submitting your own questions!
   </p>

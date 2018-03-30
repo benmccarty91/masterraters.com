@@ -1,0 +1,3 @@
+2018-03-30 0:02:42 - DEBUG --> Established a DB connection by n/a.
+2018-03-30 0:28:59 - DEBUG --> Established a DB connection by n/a.
+2018-03-30 1:21:11 - DEBUG --> Established a DB connection by n/a.

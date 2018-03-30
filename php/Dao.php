@@ -67,9 +67,10 @@ class Dao {
   public function addQuestion($entered_by, $bestworst, $query_type, $tv_movie, $question, $image_path) {
     $this->log->logDebug("addQuestion function called with params: " . $entered_by . $bestworst . $query_type . $tv_movie . $question . $image_path);
     $conn = $this->getConnection();
-    $query = $conn->prepare("INSERT INTO question_deck (approved, best_worst_question, query_type, tv_movie, query, image_path)
-      values (0, :bestworst, :query_type, :tv_movie, :question, :image);");
+    $query = $conn->prepare("INSERT INTO question_deck (approved, entered_by_user, best_worst_question, query_type, tv_movie, query, image_path)
+      values (1, :entered_by_user, :bestworst, :query_type, :tv_movie, :question, :image);");
     $query->bindParam(':bestworst', $bestworst);
+    $query->bindParam(':entered_by_user', $entered_by);
     $query->bindParam(':query_type', $query_type);
     $query->bindParam(':tv_movie', $tv_movie);
     $query->bindParam(':question', $question);
@@ -87,9 +88,16 @@ class Dao {
 
   public function getRandomQuestions() {
     $conn = $this->getConnection();
-    $query = $conn->prepare("select * from question_deck where approved = '1' or approved = '0' order by rand() limit 100;");
+    $query = $conn->prepare("select * from question_deck where approved = '1' order by rand() limit 10;");
     $query->setFetchMode(PDO::FETCH_ASSOC);
     $query->execute();
     return $query->fetchAll();
+  }
+
+  public function deleteQuestion($id) {
+    $conn = $this->getConnection();
+    $query = $conn->prepare("DELETE FROM question_deck WHERE question_id = :id");
+    $query->bindParam(':id', $id);
+    $query->execute();
   }
 }

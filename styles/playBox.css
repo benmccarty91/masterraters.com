@@ -6,7 +6,7 @@
 
 #gameQuestion img {
   width: 90%;
-  max-width: 185px;
+  max-width: 200px;
 }
 
 .playBoxes {
@@ -48,12 +48,24 @@
   border: none;
 }
 
+.resultPoster {
+  width: 90%;
+}
+
 .submitAnswers {
   background-color: #989898;
   text-align: center;
   padding: 10px;
   margin: 0 auto;
+  clear:both;
 }
+
+#skipQ {
+  display: block;
+  margin: auto;
+}
+
+
 
 .submitAnswers h2 {
   font-weight: 300;
@@ -74,4 +86,13 @@ input[type="submit"].submitAnswers {
   font-size: 1.5em;
   margin: 0 auto;
   border: none;
+  clear: both;
+}
+
+#submitLI {
+  margin-bottom:15px;
+}
+
+.winningPlayer {
+  background-color:#f6da51;
 }

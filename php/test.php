@@ -1,9 +1,9 @@
 <?php
 session_start();
 require_once 'Dao.php';
+require_once 'tmdb_api.php';
+$api = new tmdb_api();
 $dao = new Dao();
-require_once 'rng.php';
 
-print_r($_SESSION['qDeck']);
-
+print_r($api->getMovie("The Wrestler"));
 ?>

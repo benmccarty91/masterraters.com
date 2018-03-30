@@ -29,9 +29,6 @@ session_start();
     $valid = false;
     $errors['query'] = true;
   }
-
-
-
   if ($valid) {
     $log->logDebug("Submitted Question: " . print_r($_POST,1));
     $dao->addQuestion($_SESSION['user']['user_id'], "Best", $query_type, $tv_movie, $query, $image_path);
@@ -43,5 +40,6 @@ session_start();
     $_SESSION['presets'] = $presets;
     $_SESSION['errors'] = $errors;
     header("Location: ../pages/welcomeUser.php");
+    exit;
   }
 ?>
