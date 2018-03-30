@@ -36,10 +36,10 @@ session_start();
 <main>
   <h1 id="pageTitle">Thank You!</h1>
   <h3 id="newQuestionHeader">Your question has been submitted and is awaiting review.</h3>
-  <h3 id="newQuestionHeader">Click Here to Add Another</h3>
+  <h3 id="newQuestionHeader"><a href="welcomeUser.php">Click Here to Add Another</a></h3>
   <div id="gameQuestion">
     <img src="<?php echo($api->getProfilePhoto($query)) ?>" alt = "profile photo (if undisplayed, our mods will resolve)"/>
-    <h2>Best/Worst <?php echo($query . " " . $tv_movie)?></h2>
+    <h2>Best/Worst <?php echo(htmlspecialchars($query) . " " . htmlspecialchars($tv_movie))?></h2>
   </div>
 </main>
 <?php

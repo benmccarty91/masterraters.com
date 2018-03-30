@@ -193,6 +193,10 @@ textarea#customQuestion {
 
 }
 
+#howList li {
+  margin:10px;
+}
+
 /**
 FOOTER STYLES
 **/

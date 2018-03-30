@@ -68,7 +68,7 @@ class Dao {
     $this->log->logDebug("addQuestion function called with params: " . $entered_by . $bestworst . $query_type . $tv_movie . $question . $image_path);
     $conn = $this->getConnection();
     $query = $conn->prepare("INSERT INTO question_deck (approved, entered_by_user, best_worst_question, query_type, tv_movie, query, image_path)
-      values (1, :entered_by_user, :bestworst, :query_type, :tv_movie, :question, :image);");
+      values (0, :entered_by_user, :bestworst, :query_type, :tv_movie, :question, :image);");
     $query->bindParam(':bestworst', $bestworst);
     $query->bindParam(':entered_by_user', $entered_by);
     $query->bindParam(':query_type', $query_type);

@@ -1,0 +1,576 @@
+2018-03-30 19:34:06 - INFO --> User reported a problem with results.  Here is the Session array:
+
+1
+2018-03-30 19:34:26 - INFO --> User reported a problem with results.  Here is the Session array:
+
+1
+2018-03-30 19:34:44 - INFO --> User reported a problem with results.  Here is the Session array:
+
+1
+2018-03-30 19:34:46 - INFO --> User reported a problem with results.  Here is the Session array:
+
+1
+2018-03-30 19:35:09 - INFO --> User reported a problem with results.  Here is the Session array:
+
+Array
+2018-03-30 19:37:09 - INFO --> User reported a problem with results.  Here is the Session array:
+
+Array
+(
+    [qDeck] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 2121
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => John C. Reilly
+                    [image_path] => https://image.tmdb.org/t/p/h632/3LpfXon9xQZc1M2AFvfXyLeICbg.jpg
+                    [date_entered] => 2018-03-29 19:17:59
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 1341
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Keanu Reeves
+                    [image_path] => https://image.tmdb.org/t/p/h632/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg
+                    [date_entered] => 2018-03-29 19:17:16
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 5211
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Natalie Portman
+                    [image_path] => https://image.tmdb.org/t/p/h632/jJcRWku3e9OHrmRqytn6WcBjhvh.jpg
+                    [date_entered] => 2018-03-29 19:30:38
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 5281
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Michelle Pfeiffer
+                    [image_path] => https://image.tmdb.org/t/p/h632/vyoJV5QYwIGZohrPpKFdKc7EpSP.jpg
+                    [date_entered] => 2018-03-29 19:30:42
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 1361
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Harvey Keitel
+                    [image_path] => https://image.tmdb.org/t/p/h632/4IcHhp1SCKijRxb7kqnxZNJuKdn.jpg
+                    [date_entered] => 2018-03-29 19:17:17
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 2561
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Donald Sutherland
+                    [image_path] => https://image.tmdb.org/t/p/h632/luKIiU3wAAZ5C6j2053g35cRhzE.jpg
+                    [date_entered] => 2018-03-29 19:18:31
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 5631
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Maggie Smith
+                    [image_path] => https://image.tmdb.org/t/p/h632/kkMNu2iqkBPkbjhNBmDaUX7FHr.jpg
+                    [date_entered] => 2018-03-29 19:31:02
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 3201
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Sam Neill
+                    [image_path] => https://image.tmdb.org/t/p/h632/1ZHExb2rz6210NutoUhQcqQpwnl.jpg
+                    [date_entered] => 2018-03-29 19:19:10
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 6471
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Cameron Diaz
+                    [image_path] => https://image.tmdb.org/t/p/h632/ahFkUN9Sm8oF1txUHE5JcJ95Ere.jpg
+                    [date_entered] => 2018-03-29 19:31:55
+                )
+
+            [9] => Array
+                (
+                    [question_id] => 1041
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Paul Newman
+                    [image_path] => https://image.tmdb.org/t/p/h632/my0Blo9IBy1WZ0QKbuxUzS0QwV5.jpg
+                    [date_entered] => 2018-03-29 19:16:57
+                )
+
+        )
+
+    [totQ] => 10
+    [currQ] => 3
+    [player] => Array
+        (
+            [p1] => Array
+                (
+                    [score] => 1
+                    [id] => p1
+                    [answer] => 
+                )
+
+            [p2] => Array
+                (
+                    [score] => 3
+                    [id] => p2
+                    [answer] => 
+                )
+
+            [p3] => Array
+                (
+                    [score] => 1
+                    [id] => p3
+                    [answer] => 
+                )
+
+            [p4] => Array
+                (
+                    [score] => 1
+                    [id] => p4
+                    [answer] => 
+                )
+
+        )
+
+    [game] => Array
+        (
+            [winner] => Array
+                (
+                    [0] => p1
+                    [1] => p2
+                    [2] => p3
+                    [3] => p4
+                )
+
+            [winningRating] => 0
+        )
+
+)
+
+2018-03-30 19:37:41 - INFO --> User reported a problem with results.  Here is the Session array:
+
+Array
+(
+    [qDeck] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 2121
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => John C. Reilly
+                    [image_path] => https://image.tmdb.org/t/p/h632/3LpfXon9xQZc1M2AFvfXyLeICbg.jpg
+                    [date_entered] => 2018-03-29 19:17:59
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 1341
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Keanu Reeves
+                    [image_path] => https://image.tmdb.org/t/p/h632/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg
+                    [date_entered] => 2018-03-29 19:17:16
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 5211
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Natalie Portman
+                    [image_path] => https://image.tmdb.org/t/p/h632/jJcRWku3e9OHrmRqytn6WcBjhvh.jpg
+                    [date_entered] => 2018-03-29 19:30:38
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 5281
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Michelle Pfeiffer
+                    [image_path] => https://image.tmdb.org/t/p/h632/vyoJV5QYwIGZohrPpKFdKc7EpSP.jpg
+                    [date_entered] => 2018-03-29 19:30:42
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 1361
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Harvey Keitel
+                    [image_path] => https://image.tmdb.org/t/p/h632/4IcHhp1SCKijRxb7kqnxZNJuKdn.jpg
+                    [date_entered] => 2018-03-29 19:17:17
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 2561
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Donald Sutherland
+                    [image_path] => https://image.tmdb.org/t/p/h632/luKIiU3wAAZ5C6j2053g35cRhzE.jpg
+                    [date_entered] => 2018-03-29 19:18:31
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 5631
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Maggie Smith
+                    [image_path] => https://image.tmdb.org/t/p/h632/kkMNu2iqkBPkbjhNBmDaUX7FHr.jpg
+                    [date_entered] => 2018-03-29 19:31:02
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 3201
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Sam Neill
+                    [image_path] => https://image.tmdb.org/t/p/h632/1ZHExb2rz6210NutoUhQcqQpwnl.jpg
+                    [date_entered] => 2018-03-29 19:19:10
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 6471
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Cameron Diaz
+                    [image_path] => https://image.tmdb.org/t/p/h632/ahFkUN9Sm8oF1txUHE5JcJ95Ere.jpg
+                    [date_entered] => 2018-03-29 19:31:55
+                )
+
+            [9] => Array
+                (
+                    [question_id] => 1041
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Paul Newman
+                    [image_path] => https://image.tmdb.org/t/p/h632/my0Blo9IBy1WZ0QKbuxUzS0QwV5.jpg
+                    [date_entered] => 2018-03-29 19:16:57
+                )
+
+        )
+
+    [totQ] => 10
+    [currQ] => 3
+    [player] => Array
+        (
+            [p1] => Array
+                (
+                    [score] => 1
+                    [id] => p1
+                    [answer] => 
+                )
+
+            [p2] => Array
+                (
+                    [score] => 3
+                    [id] => p2
+                    [answer] => 
+                )
+
+            [p3] => Array
+                (
+                    [score] => 1
+                    [id] => p3
+                    [answer] => 
+                )
+
+            [p4] => Array
+                (
+                    [score] => 1
+                    [id] => p4
+                    [answer] => 
+                )
+
+        )
+
+    [game] => Array
+        (
+            [winner] => Array
+                (
+                    [0] => p1
+                    [1] => p2
+                    [2] => p3
+                    [3] => p4
+                )
+
+            [winningRating] => 0
+        )
+
+)
+
+2018-03-30 19:39:56 - INFO --> User reported a problem with results.  Here is the Session array:
+
+Array
+(
+    [qDeck] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 2121
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => John C. Reilly
+                    [image_path] => https://image.tmdb.org/t/p/h632/3LpfXon9xQZc1M2AFvfXyLeICbg.jpg
+                    [date_entered] => 2018-03-29 19:17:59
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 1341
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Keanu Reeves
+                    [image_path] => https://image.tmdb.org/t/p/h632/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg
+                    [date_entered] => 2018-03-29 19:17:16
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 5211
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Natalie Portman
+                    [image_path] => https://image.tmdb.org/t/p/h632/jJcRWku3e9OHrmRqytn6WcBjhvh.jpg
+                    [date_entered] => 2018-03-29 19:30:38
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 5281
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Michelle Pfeiffer
+                    [image_path] => https://image.tmdb.org/t/p/h632/vyoJV5QYwIGZohrPpKFdKc7EpSP.jpg
+                    [date_entered] => 2018-03-29 19:30:42
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 1361
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Harvey Keitel
+                    [image_path] => https://image.tmdb.org/t/p/h632/4IcHhp1SCKijRxb7kqnxZNJuKdn.jpg
+                    [date_entered] => 2018-03-29 19:17:17
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 2561
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Donald Sutherland
+                    [image_path] => https://image.tmdb.org/t/p/h632/luKIiU3wAAZ5C6j2053g35cRhzE.jpg
+                    [date_entered] => 2018-03-29 19:18:31
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 5631
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Maggie Smith
+                    [image_path] => https://image.tmdb.org/t/p/h632/kkMNu2iqkBPkbjhNBmDaUX7FHr.jpg
+                    [date_entered] => 2018-03-29 19:31:02
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 3201
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Sam Neill
+                    [image_path] => https://image.tmdb.org/t/p/h632/1ZHExb2rz6210NutoUhQcqQpwnl.jpg
+                    [date_entered] => 2018-03-29 19:19:10
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 6471
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Worst
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Cameron Diaz
+                    [image_path] => https://image.tmdb.org/t/p/h632/ahFkUN9Sm8oF1txUHE5JcJ95Ere.jpg
+                    [date_entered] => 2018-03-29 19:31:55
+                )
+
+            [9] => Array
+                (
+                    [question_id] => 1041
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Paul Newman
+                    [image_path] => https://image.tmdb.org/t/p/h632/my0Blo9IBy1WZ0QKbuxUzS0QwV5.jpg
+                    [date_entered] => 2018-03-29 19:16:57
+                )
+
+        )
+
+    [totQ] => 10
+    [currQ] => 4
+    [player] => Array
+        (
+            [p1] => Array
+                (
+                    [score] => 2
+                    [id] => p1
+                    [answer] => 
+                )
+
+            [p2] => Array
+                (
+                    [score] => 4
+                    [id] => p2
+                    [answer] => 
+                )
+
+            [p3] => Array
+                (
+                    [score] => 2
+                    [id] => p3
+                    [answer] => 
+                )
+
+            [p4] => Array
+                (
+                    [score] => 2
+                    [id] => p4
+                    [answer] => 
+                )
+
+        )
+
+    [game] => Array
+        (
+            [winner] => Array
+                (
+                    [0] => p1
+                    [1] => p2
+                    [2] => p3
+                    [3] => p4
+                )
+
+            [winningRating] => 0
+        )
+
+)
+

@@ -19,7 +19,7 @@ session_start();
    <div id="gameQuestion">
      <h2>Question <?php echo $currQ+1 ?></h2>
      <img src="<?php echo($question['image_path']) ?>" />
-     <h2><?php echo($question['best_worst_question'] . " " . $question['query'] . " " . $question['tv_movie'] ) ?></h2>
+     <h2><?php echo(htmlspecialchars($question['best_worst_question']) . " " . htmlspecialchars($question['query']) . " " . htmlspecialchars($question['tv_movie'])) ?></h2>
    </div>
    <form action="../php/submitHandler.php" method="POST">
      <ul class="playBoxes">
@@ -57,6 +57,7 @@ session_start();
        </li>
        <li id="submitLI">
          <a href="play.php"><h2>Next Question</h2></a>
+         <h6><a href="../php/reportProblem.php">Report a problem with these results.</a></h6>
        </li>
      </ul>
    </form>

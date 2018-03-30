@@ -56,16 +56,16 @@ session_start();
         $count++;
         echo("<tr id=\"questionID" . $question['question_id'] . "\">
             <td>
-              " . $question['best_worst_question'] . "
+              " . htmlspecialchars($question['best_worst_question']) . "
             </td>
             <td>
-              " . $question['query_type'] . "
+              " . htmlspecialchars($question['query_type']) . "
             </td>
             <td>
-              " . $question['tv_movie'] . "
+              " . htmlspecialchars($question['tv_movie']) . "
             </td>
             <td>
-              " . $question['query'] . "
+              " . htmlspecialchars($question['query']) . "
             </td>
             <td>
               <img src =\"" . $question['image_path'] . "\" alt=\"Profile Photo\"  height=\"150px\"/>

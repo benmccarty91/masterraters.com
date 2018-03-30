@@ -23,7 +23,7 @@
 
     public function getMovie($query) {
       $base_url = $this->conf['images']['secure_base_url'];
-      $file_size = $this->conf['images']['profile_sizes'][2];
+      $file_size = $this->conf['images']['profile_sizes'][1];
       $query = rawurlencode($query);
       $api_query = file_get_contents("https://api.themoviedb.org/3/search/multi?api_key=" . $this->auth . "&language=en-US&query=" . $query . "&page=1&include_adult=false");
       $api_query = json_decode($api_query, true);
