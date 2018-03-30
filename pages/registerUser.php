@@ -32,6 +32,9 @@ include ("../php/header.php");
         if (isset($errors) && isset($errors['email'])) {
           echo('<span class="errorMessage">An account already exists with this email.</span>');
         }
+        if (isset($errors) && isset($errors['invalid_email'])) {
+          echo('<span class="errorMessage">You submitted an invalid email address.</span>');
+        }
       ?>
     </p>
     <p class="registerElement">

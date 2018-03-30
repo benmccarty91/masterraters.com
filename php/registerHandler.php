@@ -2,7 +2,7 @@
 session_start();
   require_once "Dao.php";
 
-  $email = $_POST["email"];
+  $email = trim($_POST["email"]);
   $password = trim($_POST["password"]);
   $repeatPassword = trim($_POST["repeatPassword"]);
   $name = $_POST["name"];
@@ -28,6 +28,11 @@ session_start();
     $valid = false;
     $errors['password_length'] = true;
   }
+  if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    $valid = false;
+    $errors['invalid_email'] = true;
+  }
+
   if ($valid) {
     $hashPass = password_hash($password, PASSWORD_DEFAULT);
     $dao->addUser($name, $hashPass, $email);
