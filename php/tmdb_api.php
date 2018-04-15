@@ -31,7 +31,12 @@
         $api_query['results'][0]['poster_path'] = $base_url . $file_size . $api_query['results'][0]['poster_path'];
       }
       return $api_query['results'][0];
+    }
 
+    public function getAllMovies($page_num) {
+      $api_query = file_get_contents("https://api.themoviedb.org/3/movie/popular?api_key=" . $this->auth . "&language=en-US&page=" . $page_num);
+      $api_query = json_decode($api_query, true);
+      return $api_query['results'];
     }
   }
 ?>

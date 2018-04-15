@@ -100,4 +100,29 @@ class Dao {
     $query->bindParam(':id', $id);
     $query->execute();
   }
+
+  public function addMovie ($title, $tmdb_id, $poster_path) {
+     $conn = $this->getConnection();
+     $query = $conn->prepare("INSERT INTO autocomplete_lookup (tmdb_id, title, poster_path) values (:tmdb_id, :title, :poster_path)");
+     $query->bindParam(':tmdb_id', $tmdb_id);
+     $query->bindParam(':title', $title);
+     $query->bindParam(':poster_path', $poster_path);
+     $query->execute();
+  }
+
+  public function checkMovie($tmdb_id) {
+    $conn = $this->getConnection();
+    $query = $conn->prepare("SELECT tmdb_id FROM autocomplete_lookup WHERE tmdb_id = :tmdb_id");
+    $query->bindParam(':tmdb_id', $tmdb_id);
+    $query->execute();
+    return $query->fetchAll();
+  }
+
+  public function acLookupMovie($input) {
+    $conn = $this->getConnection();
+    $query = $conn->prepare("SELECT title, poster_path FROM autocomplete_lookup WHERE title LIKE :title ORDER BY title LIMIT 6");
+    $query->bindParam(':title', $input);
+    $query->execute();
+    return $query->fetchAll();
+  }
 }

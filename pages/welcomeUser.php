@@ -43,8 +43,8 @@ session_start();
 <div id="submitForm">
   <form id="submitQuestionsForm" class="submitQuestions" action="../php/questionsHandler.php" method="POST">
       <div class="submitQuestionsElement">
-        <label>Please Select: </label>
-        <select name="query_type" required>
+        <label for="query_type">Please Select: </label>
+        <select name="query_type" id="query_type" required>
           <option value=""></option>
           <option value="actor"
             <?php
@@ -68,8 +68,8 @@ session_start();
         ?>
       </div>
       <div class="submitQuestionsElement">
-        <label>TV or Movie: </label>
-        <select name="tv_movie" required>
+        <label for="tv_movie">TV or Movie: </label>
+        <select name="tv_movie" id="tv_movie" required>
           <option value=""></option>
           <option value="TV Show"
           <?php

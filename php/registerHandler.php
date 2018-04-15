@@ -34,6 +34,7 @@ session_start();
   }
 
   if ($valid) {
+    $password = $password . $email;
     $hashPass = password_hash($password, PASSWORD_DEFAULT);
     $dao->addUser($name, $hashPass, $email);
     $_SESSION['user'] = array_shift($dao->checkUser($email));
