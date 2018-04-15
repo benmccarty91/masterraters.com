@@ -32,7 +32,7 @@ session_start();
   <h1 id="pageTitle">Play!</h1>
   <div id="gameQuestion">
     <h2>Question <?php echo $currQ+1 ?></h2>
-    <img src="<?php echo($question['image_path']) ?>" />
+    <img src="<?php echo(htmlspecialchars($question['image_path'])) ?>" />
     <h2><?php echo(htmlspecialchars($question['best_worst_question']) . " " . htmlspecialchars($question['query']) . " " . htmlspecialchars($question['tv_movie'])) ?></h2>
   </div>
   <form action="../php/submitHandler.php" method="POST">
@@ -40,28 +40,28 @@ session_start();
       <li>
         <div class="playBox">
           <h2>Player 1</h2>
-          <input type="text" class="IMDB_searchBox" name="1" placeholder="Search TMDB">
+          <input type="text" class="IMDB_searchBox" name="1" placeholder="Search TMDB" id="player1">
           <h3 class="score">Score: <?php echo($_SESSION['player']['p1']['score']) ?></h3>
         </div>
       </li>
       <li>
         <div class="playBox">
           <h2>Player 2</h2>
-          <input type="text" class="IMDB_searchBox" name="2" placeholder="Search TMDB">
+          <input type="text" class="IMDB_searchBox" name="2" placeholder="Search TMDB" id="player2">
           <h3 class="score">Score: <?php echo($_SESSION['player']['p2']['score']) ?></h3>
         </div>
       </li>
       <li>
         <div class="playBox">
           <h2>Player 3</h2>
-          <input type="text" class="IMDB_searchBox" name="3" placeholder="Search TMDB">
+          <input type="text" class="IMDB_searchBox" name="3" placeholder="Search TMDB" id="player3">
           <h3 class="score">Score: <?php echo($_SESSION['player']['p3']['score']) ?></h3>
         </div>
       </li>
       <li>
         <div class="playBox">
           <h2>Player 4</h2>
-          <input type="text" class="IMDB_searchBox" name="4" placeholder="Search TMDB">
+          <input type="text" class="IMDB_searchBox" name="4" placeholder="Search TMDB" id="player4">
           <h3 class="score">Score: <?php echo($_SESSION['player']['p4']['score']) ?></h3>
         </div>
       </li>
@@ -76,6 +76,20 @@ session_start();
     </ul>
   </form>
 </main>
+<script>
+  $('#player1').autocomplete({
+    serviceUrl: '/../php/acHandler.php'
+  });
+  $('#player2').autocomplete({
+    serviceUrl: '/../php/acHandler.php'
+  });
+  $('#player3').autocomplete({
+    serviceUrl: '/../php/acHandler.php'
+  });
+  $('#player4').autocomplete({
+    serviceUrl: '/../php/acHandler.php'
+  });
+</script>
 <?php
   include ("../php/footer.php");
  ?>

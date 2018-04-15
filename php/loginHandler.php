@@ -11,7 +11,8 @@ session_start();
   $foo = $dao->checkUser($_POST['email']);
   if (isset($foo[0])) {
     $foo = array_shift($foo);
-    if (password_verify($_POST['password'], $foo['password'])) {
+    $pass = $_POST['password'] . $_POST['email'];
+    if (password_verify($pass, $foo['password'])) {
       $_SESSION['user'] = array_shift($dao->checkUser($_POST['email']));
       $_SESSION['logged_in'] = true;
     } else {

@@ -27,8 +27,8 @@ session_start();
   require_once '../php/tmdb_api.php';
   $api = new tmdb_api();
 
-  $query = $_GET['query'];
-  $tv_movie = $_GET['tv_movie'];
+  $query = htmlspecialchars($_GET['query']);
+  $tv_movie = htmlspecialchars($_GET['tv_movie']);
   if ($tv_movie == "Both") {
     $tv_movie = "TV/Movie";
   }
@@ -39,7 +39,7 @@ session_start();
   <h3 id="newQuestionHeader"><a href="welcomeUser.php">Click Here to Add Another</a></h3>
   <div id="gameQuestion">
     <img src="<?php echo($api->getProfilePhoto($query)) ?>" alt = "profile photo (if undisplayed, our mods will resolve)"/>
-    <h2>Best/Worst <?php echo(htmlspecialchars($query) . " " . htmlspecialchars($tv_movie))?></h2>
+    <h2>Best/Worst <?php echo($query . " " . $tv_movie)?></h2>
   </div>
 </main>
 <?php

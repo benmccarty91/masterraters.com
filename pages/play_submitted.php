@@ -18,7 +18,7 @@ session_start();
    <h1 id="pageTitle">Play!</h1>
    <div id="gameQuestion">
      <h2>Question <?php echo $currQ+1 ?></h2>
-     <img src="<?php echo($question['image_path']) ?>" />
+     <img src="<?php echo(htmlspecialchars($question['image_path'])) ?>" />
      <h2><?php echo(htmlspecialchars($question['best_worst_question']) . " " . htmlspecialchars($question['query']) . " " . htmlspecialchars($question['tv_movie'])) ?></h2>
    </div>
    <form action="../php/submitHandler.php" method="POST">
