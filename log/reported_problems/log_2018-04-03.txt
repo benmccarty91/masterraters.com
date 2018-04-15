@@ -1,0 +1,374 @@
+2018-04-03 1:03:07 - INFO --> User reported a problem with results.  Here is the Session array:
+
+Array
+(
+    [qDeck] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1741
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Billy Bob Thornton
+                    [image_path] => https://image.tmdb.org/t/p/h632/gPCPKXh7HvobcrldRGj5QchW34p.jpg
+                    [date_entered] => 2018-03-29 19:17:38
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 1621
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Antonio Banderas
+                    [image_path] => https://image.tmdb.org/t/p/h632/85197jARsr06xQ84NhP9YoBL3sR.jpg
+                    [date_entered] => 2018-03-29 19:17:31
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 5121
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Sigourney Weaver
+                    [image_path] => https://image.tmdb.org/t/p/h632/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg
+                    [date_entered] => 2018-03-29 19:30:32
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 361
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Clint Eastwood
+                    [image_path] => https://image.tmdb.org/t/p/h632/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg
+                    [date_entered] => 2018-03-29 19:16:14
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 1701
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Adrien Brody
+                    [image_path] => https://image.tmdb.org/t/p/h632/zvMslH1C8xmEBpGgDsdzL797Rv.jpg
+                    [date_entered] => 2018-03-29 19:17:36
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 1
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Jack Nicholson
+                    [image_path] => https://image.tmdb.org/t/p/h632/z5kVLyn3sxj0wNRlFgVgT6deeRO.jpg
+                    [date_entered] => 2018-03-29 19:15:54
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 81
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Al Pacino
+                    [image_path] => https://image.tmdb.org/t/p/h632/f9tBVwcNHnawvMoyuuzmKvEhBsb.jpg
+                    [date_entered] => 2018-03-29 19:15:59
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 1561
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Joaquin Phoenix
+                    [image_path] => https://image.tmdb.org/t/p/h632/cK0BTrAM1xcsto8kVvHhd9AV8dW.jpg
+                    [date_entered] => 2018-03-29 19:17:28
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 3041
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Orlando Bloom
+                    [image_path] => https://image.tmdb.org/t/p/h632/kKWJlX2tcjqceSfUxnV7Jle5Kt.jpg
+                    [date_entered] => 2018-03-29 19:19:02
+                )
+
+            [9] => Array
+                (
+                    [question_id] => 3181
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Patrick Stewart
+                    [image_path] => https://image.tmdb.org/t/p/h632/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg
+                    [date_entered] => 2018-03-29 19:19:09
+                )
+
+        )
+
+    [totQ] => 10
+    [currQ] => 0
+    [player] => Array
+        (
+            [p1] => Array
+                (
+                    [id] => p1
+                    [score] => 1
+                    [answer] => 
+                )
+
+            [p2] => Array
+                (
+                    [id] => p2
+                    [score] => 1
+                    [answer] => 
+                )
+
+            [p3] => Array
+                (
+                    [id] => p3
+                    [score] => 1
+                    [answer] => 
+                )
+
+            [p4] => Array
+                (
+                    [id] => p4
+                    [score] => 1
+                    [answer] => 
+                )
+
+        )
+
+    [game] => Array
+        (
+            [winner] => Array
+                (
+                    [0] => p1
+                    [1] => p2
+                    [2] => p3
+                    [3] => p4
+                )
+
+            [winningRating] => 0
+        )
+
+)
+
+2018-04-03 1:15:57 - INFO --> User reported a problem with results.  Here is the Session array:
+
+Array
+(
+    [qDeck] => Array
+        (
+            [0] => Array
+                (
+                    [question_id] => 1741
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Billy Bob Thornton
+                    [image_path] => https://image.tmdb.org/t/p/h632/gPCPKXh7HvobcrldRGj5QchW34p.jpg
+                    [date_entered] => 2018-03-29 19:17:38
+                )
+
+            [1] => Array
+                (
+                    [question_id] => 1621
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Antonio Banderas
+                    [image_path] => https://image.tmdb.org/t/p/h632/85197jARsr06xQ84NhP9YoBL3sR.jpg
+                    [date_entered] => 2018-03-29 19:17:31
+                )
+
+            [2] => Array
+                (
+                    [question_id] => 5121
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Sigourney Weaver
+                    [image_path] => https://image.tmdb.org/t/p/h632/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg
+                    [date_entered] => 2018-03-29 19:30:32
+                )
+
+            [3] => Array
+                (
+                    [question_id] => 361
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Clint Eastwood
+                    [image_path] => https://image.tmdb.org/t/p/h632/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg
+                    [date_entered] => 2018-03-29 19:16:14
+                )
+
+            [4] => Array
+                (
+                    [question_id] => 1701
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Adrien Brody
+                    [image_path] => https://image.tmdb.org/t/p/h632/zvMslH1C8xmEBpGgDsdzL797Rv.jpg
+                    [date_entered] => 2018-03-29 19:17:36
+                )
+
+            [5] => Array
+                (
+                    [question_id] => 1
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Jack Nicholson
+                    [image_path] => https://image.tmdb.org/t/p/h632/z5kVLyn3sxj0wNRlFgVgT6deeRO.jpg
+                    [date_entered] => 2018-03-29 19:15:54
+                )
+
+            [6] => Array
+                (
+                    [question_id] => 81
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Al Pacino
+                    [image_path] => https://image.tmdb.org/t/p/h632/f9tBVwcNHnawvMoyuuzmKvEhBsb.jpg
+                    [date_entered] => 2018-03-29 19:15:59
+                )
+
+            [7] => Array
+                (
+                    [question_id] => 1561
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Joaquin Phoenix
+                    [image_path] => https://image.tmdb.org/t/p/h632/cK0BTrAM1xcsto8kVvHhd9AV8dW.jpg
+                    [date_entered] => 2018-03-29 19:17:28
+                )
+
+            [8] => Array
+                (
+                    [question_id] => 3041
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Orlando Bloom
+                    [image_path] => https://image.tmdb.org/t/p/h632/kKWJlX2tcjqceSfUxnV7Jle5Kt.jpg
+                    [date_entered] => 2018-03-29 19:19:02
+                )
+
+            [9] => Array
+                (
+                    [question_id] => 3181
+                    [approved] => 1
+                    [entered_by_user] => 1
+                    [best_worst_question] => Best
+                    [query_type] => actor
+                    [tv_movie] => Movie
+                    [query] => Patrick Stewart
+                    [image_path] => https://image.tmdb.org/t/p/h632/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg
+                    [date_entered] => 2018-03-29 19:19:09
+                )
+
+        )
+
+    [totQ] => 10
+    [currQ] => 1
+    [player] => Array
+        (
+            [p1] => Array
+                (
+                    [id] => p1
+                    [score] => 2
+                    [answer] => 
+                )
+
+            [p2] => Array
+                (
+                    [id] => p2
+                    [score] => 2
+                    [answer] => 
+                )
+
+            [p3] => Array
+                (
+                    [id] => p3
+                    [score] => 2
+                    [answer] => 
+                )
+
+            [p4] => Array
+                (
+                    [id] => p4
+                    [score] => 2
+                    [answer] => 
+                )
+
+        )
+
+    [game] => Array
+        (
+            [winner] => Array
+                (
+                    [0] => p1
+                    [1] => p2
+                    [2] => p3
+                    [3] => p4
+                )
+
+            [winningRating] => 0
+        )
+
+)
+

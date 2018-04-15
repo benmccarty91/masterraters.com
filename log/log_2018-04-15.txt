@@ -1,0 +1,1 @@
+2018-04-15 1:50:20 - DEBUG --> Established a DB connection by n/a.
