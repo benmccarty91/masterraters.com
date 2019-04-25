@@ -3,3 +3,7 @@
 2019-04-25 3:18:50 - DEBUG --> Established a DB connection by n/a.
 2019-04-25 3:18:53 - DEBUG --> Established a DB connection by n/a.
 2019-04-25 3:18:58 - DEBUG --> Established a DB connection by n/a.
+2019-04-25 3:46:56 - DEBUG --> Established a DB connection by n/a.
+2019-04-25 3:47:00 - DEBUG --> Established a DB connection by n/a.
+2019-04-25 3:47:37 - DEBUG --> Established a DB connection by n/a.
+2019-04-25 3:47:49 - DEBUG --> Established a DB connection by n/a.
