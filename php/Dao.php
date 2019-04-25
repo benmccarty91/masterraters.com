@@ -94,6 +94,14 @@ class Dao {
     return $query->fetchAll();
   }
 
+  public function getRandomQuestion() {
+    $conn = $this->getConnection();
+    $query = $conn->prepare("select * from question_deck where approved = '1' order by rand() limit 1;");
+    $query->setFetchMode(PDO::FETCH_ASSOC);
+    $query->execute();
+    return $query->fetchAll();
+  }
+
   public function deleteQuestion($id) {
     $conn = $this->getConnection();
     $query = $conn->prepare("DELETE FROM question_deck WHERE question_id = :id");
