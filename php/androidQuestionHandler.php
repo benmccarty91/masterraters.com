@@ -3,6 +3,7 @@ require_once "../php/Dao.php";
 $dao = new Dao();
 
 $gameId = $_GET['gameId'];
+$userId = $_GET['userId'];
 
 $randomQuestion = $dao->getRandomQuestion();
 $toReturn = Array();
