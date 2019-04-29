@@ -20,5 +20,5 @@ $toReturn['score'] = number_format(round($result['vote_average'], 1, PHP_ROUND_H
 $toReturn['poster_path'] = $result['poster_path'];
 $toReturn['title'] = $result['title'];
 $toReturn['winner'] = true;
-sleep(5);
+// sleep(5);
 echo (json_encode($toReturn));
